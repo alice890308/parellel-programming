@@ -1,0 +1,13 @@
+venv/
+.cache/
+.config/
+.bash_logout
+.local/
+.viminfo
+.bash_profile
+.ssh/
+.vscode-server/
+.bash_history
+.bashrc
+.wget-hsts
+.vim/
